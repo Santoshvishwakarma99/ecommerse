@@ -1,0 +1,306 @@
+{
+  "sandals": [
+    {
+      "id": 1,
+      "name": "BROWN MEN SANDALS | 5224BROWN",
+      "price": 499,
+      "image": "src/assets/san1.webp",
+      "description": "Crafted from premium leather, these brown men's sandals by GORDON & BROS offer timeless style and all-day comfort.",
+      "sizes": [6, 7, 8, 9, 10]
+    },
+    {
+      "id": 2,
+      "name": "Sandal - 38 (Tan)",
+      "price": 599,
+      "image": "src/assets/san23.webp",
+      "description": "Gordon & Bro Leather Sandal is a perfect blend of style and comfort for warm weather. ",
+      "sizes": [6, 7, 8, 9, 10]
+    },
+    {
+      "id": 3,
+      "name": "BLACK MEN SANDALS ",
+      "image": "src/assets/san3.webp",
+      "description": "Crafted from premium leather, these black men's sandals by GORDON & BROS offer timeless style and all-day comfort.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 699
+    },
+    {
+      "id": 4,
+      "name": "Gordon & Bro Leather Sanda",
+      "image": "src/assets/san5.webp",
+      "description": "Gordon & Bro Leather Sandal is a perfect blend of style and comfort for warm weather.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 899
+    },
+    {
+      "id": 5,
+      "name": "TAN MEN SANDALS",
+      "image": "src/assets/san16.webp",
+      "description": "Upgrade your footwear collection with GORDON & BROS Tan Men’s Sandals.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 799
+    },
+    {
+      "id": 6,
+      "name": "Sandal - 38 (Tan)",
+      "image": "src/assets/san14.webp",
+      "description": "Crafted from premium leather, these black men's sandals by GORDON & BROS offer timeless style and all-day comfort.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 699
+    },
+    {
+      "id": 7,
+      "name": "DK BROWN MP MEN SANDALS",
+      "image": "src/assets/san17.webp",
+      "description": "Elevate your style with GORDON & BROS DK Brown MP Men’s Sandals. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 899
+    },
+    {
+      "id": 8,
+      "name": "NAVY MEN SANDALS | 5204NAVY",
+      "image": "src/assets/san8.webp",
+      "description": "Step out in style with GORDON & BROS Navy Men’s Sandals.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 299
+    },
+    {
+      "id": 9,
+      "name": "Sandal - 39 (Brown)",
+      "image": "src/assets/san10.webp",
+      "description": "Gordon & Bro Leather Sandal is a perfect blend of style and comfort for warm weather.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 399
+    },
+    {
+      "id": 10,
+      "name": "BLACK MEN SANDALS",
+      "image": "src/assets/san12.webp",
+      "description": "Discover the perfect blend of comfort and style with GORDON & BROS Black Men’s Sandals. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 999
+    }
+  ],
+  "boots": [
+    {
+      "id": 11,
+      "name": "Chelsea Boot - 625634 (SUEDE BLACK)",
+      "image": "src/assets/boot21.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 1999
+    },
+    {
+      "id": 12,
+      "name": "Chelsea Boot - 7617 (ADIGO TAN)",
+      "image": "src/assets/boot22.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 2999
+    },
+    {
+      "id": 13,
+      "name": "Chelsea Boot - 7617 (ADIGO BROWN)",
+      "image": "src/assets/boot24.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 1899
+    },
+    {
+      "id": 14,
+      "name": "Chelsea Boot - 7617 (ADIGO BLACK)",
+      "image": "src/assets/boot25.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 2999
+    },
+    {
+      "id": 15,
+      "name": "Chelsea Boot - 12205 (NUBUCK TOBACCO)",
+      "image": "src/assets/boot26.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 4999
+    },
+    {
+      "id": 16,
+      "name": "Chelsea Boot - 7617 (ADIGO BROWN)",
+      "image": "src/assets/boot27.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 2999
+    },
+    {
+      "id": 17,
+      "name": "Chelsea Boot - 6121 (ADIGO TAN)",
+      "image": "src/assets/boot29.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 18,
+      "name": "Chelsea Boot - 18 (Brown)",
+      "image": "src/assets/boot30.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 7999
+    },
+    {
+      "id": 19,
+      "name": "Chelsea Boot - 625634 (SUEDE DKBROWN)",
+      "image": "src/assets/boot31.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 4999
+    },
+    {
+      "id": 20,
+      "name": "Chelsea Boot - 625634 (SUEDE DKBROWN)",
+      "image": "src/assets/boot32.webp",
+      "description": "Expertly crafted with premium leather, these Chelsea boots feature a wide, double-sided design and an elasticated entry with a pull tab for easy wear",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 2999
+    }
+  ],
+  "formal": [
+    {
+      "id": 21,
+      "name": "PATENT BLACK MEN PLAIN VAMP LACE UP SHOES",
+      "image": "src/assets/form41.webp",
+      "description": "Enhance the refinement of your polished look with our Classic Derby Shoes.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 1999
+    },
+    {
+      "id": 22,
+      "name": "Derby - 625635 (ANTIK COGNAC)",
+      "image": "src/assets/form42.webp",
+      "description": "Enhance the refinement of your polished look with our Classic Derby Shoes.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 23,
+      "name": "BROWN MEN DERBY LACE UP SHOES | 26BROWN",
+      "image": "src/assets/form43.webp",
+      "description": "Enhance the refinement of your polished look with our Classic Derby Shoes. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 1999
+    },
+    {
+      "id": 24,
+      "name": "TAN MEN DERBY LACE UP SHOES | 26TAN",
+      "image": "src/assets/form44.webp",
+      "description": "TAN MEN DERBY LACE UP SHOES | 26TANEnhance the refinement of your polished look with our Classic Derby Shoes. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 5999
+    },
+    {
+      "id": 25,
+      "name": "BLACK MEN DERBY LACE UP SHOES | 22BLACK",
+      "image": "src/assets/form45.webp",
+      "description": "Enhance the refinement of your polished look with our Classic Derby Shoes. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 26,
+      "name": "BROWN MEN DERBY LACE UP SHOES | 22BROWN",
+      "image": "src/assets/form53.webp",
+      "description": "GORDON & BROS Brown men's Derby lace-up shoes – sleek leather design for timeless elegance and all-day comfort.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 27,
+      "name": "BROWN MEN DERBY LACE UP SHOES | 21BROWN",
+      "image": "src/assets/form51.webp",
+      "description": "Enhance the refinement of your polished look with our Classic Derby Shoes. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 28,
+      "name": "Derby - 625191 (HI-SHINE BLACK)",
+      "image": "src/assets/form50.webp",
+      "description": "Enhance the refinement of your polished look with our Classic Derby Shoes.  ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 29,
+      "name": "PLAIN BROWN BROGUES MEN DERBY LACE UP SHOES",
+      "image": "src/assets/form54.webp",
+      "description": "Crafted from premium leather, these GORDON & BROS brogue Derby lace-up shoes combine classic design with superior comfort",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 30,
+      "name": "TAN MEN TOE CAP OXFORD LACE UP SHOES | 5092TAN",
+      "image": "src/assets/form55.webp",
+      "description": "Experience the eternal sophistication of our Classic Leather Loafers.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    }
+  ],
+  "sneakers": [
+    {
+      "id": 31,
+      "name": "WHITE MEN LACE UP SNEAKERS | 1932WHITE",
+      "image": "src/assets/sn61.webp",
+      "description": "Step up your sneaker game with GORDON & BROS White Men’s Lace-Up Sneakers. Crafted from high-quality materials.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 32,
+      "name": "NAVY MEN LACE UP SNEAKERS | 1932NAVY",
+      "image": "src/assets/sn62.webp",
+      "description": "Step up your sneaker game with GORDON & BROS Navy Men’s Lace-Up Sneakers. Crafted from high-quality materials.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 33,
+      "name": "WHITE/GREY MEN LACE UP SNEAKERS",
+      "image": "src/assets/sn63.webp",
+      "description": "Add a touch of luxury to your sneaker collection with our Leather Sneakers in White/Snuff.",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 34,
+      "name": "ANTIK BLACK MEN LACE UP SNEAKERS",
+      "image": "src/assets/sn64.webp",
+      "description": "Add a touch of luxury to your sneaker collection with our Leather Sneakers in White/Grey. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 35,
+      "name": "WHITE/SNUFF MEN CASUAL SNEAKERS LACE UP",
+      "image": "src/assets/sn65.webp",
+      "description": "Add a touch of luxury to your sneaker collection with our Leather Sneakers in White/Snuff. ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 36,
+      "name": "WHITE/GREY MEN CASUAL SNEAKERS LACE UP",
+      "image": "src/assets/sn66.webp",
+      "description": "Add a touch of luxury to your sneaker collection with our Leather Sneakers in White/Grey.  ",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    },
+    {
+      "id": 37,
+      "name": "BROWN TAN MEN LACE UP SNEAKERS",
+      "image": "src/assets/sn67.webp",
+      "description": "Step up your sneaker game with GORDON & BROS Brown Tan Men’s Lace-Up Sneakers. Crafted from high-quality materials",
+      "sizes": [6, 7, 8, 9, 10],
+      "price": 3999
+    }
+  ]
+}
